@@ -27,7 +27,4 @@ Modulo para splash screen e carregamento de todas as dependências do projeto
   
 
 # III - Telas
-
-  
-
-![SplashScreen](https://live.staticflickr.com/65535/51144996288_589c617caf_b.jpg)
+![SplashScreen](https://user-images.githubusercontent.com/2637049/116999011-6fd1a380-acb5-11eb-87b6-c77e5d2ee606.png)
