@@ -140,9 +140,11 @@ Segue abaixo a lista dos recursos que podem ser utilizados:
 Para garantir que as boas práticas de desenvolvimento seguindo a [guia oficial do Dart](https://dart.dev/guides/language/effective-dart) utilizamos o package [Effective Dart](https://pub.dev/packages/effective_dart) 
 Isso ira gerar Avisos de linhas que não  condiz com as boas praticas do Flutter e com um [link](https://dart-lang.github.io/linter/lints/prefer_relative_imports.html) para a documentação oficial do Dart explicando como corrigi-lo
 
-![Warning com o problema de boa prática](https://live.staticflickr.com/65535/51143729112_2546a9f7c2_z.jpg)
+![Warning com o problema de boa prática](https://user-images.githubusercontent.com/2637049/116998280-5a0fae80-acb4-11eb-9c9f-49e0e9e865b7.png)
 
-![Documentação oficial do Effective Dart](https://live.staticflickr.com/65535/51144405196_0cf4496961_b.jpg)
+
+![Documentação oficial do Effective Dart](https://user-images.githubusercontent.com/2637049/116998323-68f66100-acb4-11eb-9c33-7c597db30b80.png)
+
 # IX - Bibliografias
 
 Abaixo há alguns links de documentações e artigos que possam ser consultados
