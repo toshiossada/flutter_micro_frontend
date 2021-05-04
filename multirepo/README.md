@@ -8,7 +8,8 @@ Este é um projeto de exemplo de Flutter utilizando o conceito de monólito, ou 
 
 A arquitetura do projeto esta baseada no Clean Dart com modular, tendo suas funcionalidades quebradas por módulos.
 
-![Estrutura de pastas](https://live.staticflickr.com/65535/51146829716_19bedcee3c_w.jpg)
+![Estrutura de pastas](https://user-images.githubusercontent.com/2637049/116999584-32b9e100-acb6-11eb-93d5-73834e5cc895.png)
+
 
 Para criação de um novo modulo utilize o comando abaixo no CLI
 
@@ -215,10 +216,7 @@ A importação das versões criadas deve ser da seguinte forma:
 
 ![App](https://media3.giphy.com/media/j0NLsIT8GqF1RQnQMe/giphy.gif)
 
-![SplashScreen](https://live.staticflickr.com/65535/51144996288_589c617caf_b.jpg)
-
-![Tela de Login](https://live.staticflickr.com/65535/51144773346_5c111b3697_b.jpg)
-
-![Home Page](https://live.staticflickr.com/65535/51145553359_8359be1f58_b.jpg)![Drawer](https://live.staticflickr.com/65535/51144773396_9f8fc919e5_b.jpg)
-
+![SplashScreen](https://user-images.githubusercontent.com/2637049/116999011-6fd1a380-acb5-11eb-87b6-c77e5d2ee606.png)
+![Tela de Login](https://user-images.githubusercontent.com/2637049/116999041-7bbd6580-acb5-11eb-98be-9687309249ab.png)
+![Home Page](https://user-images.githubusercontent.com/2637049/116999108-8b3cae80-acb5-11eb-8292-43935d7cf724.png)
 ![Tela de Detalhe](https://live.staticflickr.com/65535/51145878610_522f4c73af_b.jpg)
