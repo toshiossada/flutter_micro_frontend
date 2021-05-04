@@ -17,7 +17,8 @@ Este é um projeto de exemplo de Flutter utilizando o conceito de monólito, ou 
 
 A arquitetura do projeto esta baseada no Clean Dart com modular, tendo suas funcionalidades quebradas por módulos.
 
-![Estrutura de pastas](https://live.staticflickr.com/65535/51146829716_19bedcee3c_w.jpg)
+![Estrutura de pastas](https://user-images.githubusercontent.com/2637049/116998888-40229b80-acb5-11eb-9571-4bfe42aa6cb7.png)
+
 
   
 
@@ -206,7 +207,8 @@ A estrutura do projeto esta em monorepo e suas funcionalidade(módulos) quebrado
  - [module_login](./example/module_login)
  - [module_splash](./example/module_splash)
 
-![Estrutura](https://live.staticflickr.com/65535/51148279724_7e201d556b_b.jpg)
+![Estrutura](https://user-images.githubusercontent.com/2637049/116998954-59c3e300-acb5-11eb-8a73-aa342608edd5.png)
+
 
 [DOCUMENTO](https://drive.google.com/file/d/1fsTYSfi2rtystFskGd1oX6lTPOJ_bFo1/view?usp=sharing)
 
@@ -290,15 +292,18 @@ Aqui é onde terá todas as dependências do projeto e os módulos pegam suas de
 
   
 
-![SplashScreen](https://live.staticflickr.com/65535/51144996288_589c617caf_b.jpg)
+![SplashScreen](https://user-images.githubusercontent.com/2637049/116999011-6fd1a380-acb5-11eb-87b6-c77e5d2ee606.png)
+
 
   
 
-![Tela de Login](https://live.staticflickr.com/65535/51144773346_5c111b3697_b.jpg)
+
+![Tela de Login](https://user-images.githubusercontent.com/2637049/116999041-7bbd6580-acb5-11eb-98be-9687309249ab.png)
+
 
   
+![Home Page](https://user-images.githubusercontent.com/2637049/116999108-8b3cae80-acb5-11eb-8292-43935d7cf724.png)
 
-![Home Page](https://live.staticflickr.com/65535/51145553359_8359be1f58_b.jpg)![Drawer](https://live.staticflickr.com/65535/51144773396_9f8fc919e5_b.jpg)
 
   
 
