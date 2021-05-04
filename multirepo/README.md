@@ -131,7 +131,9 @@ A estrutura do projeto esta em monorepo e suas funcionalidade(módulos) quebrado
 - [module_login](https://github.com/toshiossada/micoappp_module_login)
 - [module_splash](https://github.com/toshiossada/micoappp_module_splash)
 
-![Estrutura](https://live.staticflickr.com/65535/51148279724_7e201d556b_b.jpg)
+
+![Estrutura](https://user-images.githubusercontent.com/2637049/116999768-79a7d680-acb6-11eb-9bea-b7b95a6efd00.png)
+
 
 [DOCUMENTO](https://drive.google.com/file/d/1fsTYSfi2rtystFskGd1oX6lTPOJ_bFo1/view?usp=sharing)
 
@@ -219,4 +221,5 @@ A importação das versões criadas deve ser da seguinte forma:
 ![SplashScreen](https://user-images.githubusercontent.com/2637049/116999011-6fd1a380-acb5-11eb-87b6-c77e5d2ee606.png)
 ![Tela de Login](https://user-images.githubusercontent.com/2637049/116999041-7bbd6580-acb5-11eb-98be-9687309249ab.png)
 ![Home Page](https://user-images.githubusercontent.com/2637049/116999108-8b3cae80-acb5-11eb-8292-43935d7cf724.png)
-![Tela de Detalhe](https://live.staticflickr.com/65535/51145878610_522f4c73af_b.jpg)
+![Tela de Detalhe](https://user-images.githubusercontent.com/2637049/116999826-90e6c400-acb6-11eb-92b7-7e07ea9f3af2.png)
+
