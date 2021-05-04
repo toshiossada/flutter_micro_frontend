@@ -53,8 +53,7 @@ Veja a documentação sobre Git Flow [aqui](./GIT_FLOW.md)
 Teste é algo de grande importância para garantir a qualidade dos projetos, com a implantação do Clean Dart facilita a criação dos testes
 ## Estrutura de pastas
 É importante e bastante eficaz que a estrutura de pastas do testes sigam a mesma estrutura do projeto 
-
-![Estrutura de pasta de testes](//live.staticflickr.com/65535/51144354326_9cf17dcf53_w.jpg)
+![Estrutura de pasta de testes](image)(https://user-images.githubusercontent.com/2637049/116997874-c342f200-acb3-11eb-8a99-163973ebe84e.png)
 
 ## Given-When-Then (Dado-Quando-Então)
 ![Given-When-Then](https://abap101.com/wp-content/uploads/2014/01/Given-When-Then-300x225.jpg)
