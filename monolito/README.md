@@ -7,7 +7,8 @@
 Este é um projeto de exemplo de Flutter utilizando o conceito de monólito, ou seja, um único projeto com suas classes, widgets e helpers dentro dele.
 A arquitetura do projeto esta baseada no Clean Dart com modular, tendo suas funcionalidades quebradas por módulos.
 
-![Estrutura de pastas Modular](https://live.staticflickr.com/65535/51145770745_43e90d953a_w.jpg)
+![Estrutura de pastas Modular](https://user-images.githubusercontent.com/2637049/116998708-018ce100-acb5-11eb-8e28-26b4b6dcd7fe.png)
+
 
 # II - Gerenciamento de Estado
 
