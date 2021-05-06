@@ -291,7 +291,7 @@ Aqui é onde terá todas as dependências do projeto e os módulos pegam suas de
 
   
 
-![App](https://media3.giphy.com/media/j0NLsIT8GqF1RQnQMe/giphy.gif)
+![App](https://user-images.githubusercontent.com/2637049/117363594-28a10980-ae93-11eb-89fa-9a70344a5af0.gif)
 
   
 
