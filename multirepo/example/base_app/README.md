@@ -153,7 +153,7 @@ A estrutura do projeto esta em monorepo e suas funcionalidade(módulos) quebrado
 - [module_splash](https://github.com/toshiossada/micoappp_module_splash)
 
 
-![Estrutura](https://user-images.githubusercontent.com/2637049/117326330-ee6e4280-ae67-11eb-9a6c-90839a6e3e30.png)
+![Estrutura](https://user-images.githubusercontent.com/2637049/117327456-fed2ed00-ae68-11eb-9afd-874c67587955.png)
 
 
 
