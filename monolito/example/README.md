@@ -98,7 +98,7 @@ Neste projeto foram utilizados alguns pacotes
 
 # III - Telas
 
-![App](https://media3.giphy.com/media/j0NLsIT8GqF1RQnQMe/giphy.gif)
+![App](https://user-images.githubusercontent.com/2637049/117363594-28a10980-ae93-11eb-89fa-9a70344a5af0.gif)
 ![SplashScreen](https://live.staticflickr.com/65535/51144996288_589c617caf_b.jpg)
 ![Tela de Login](https://live.staticflickr.com/65535/51144773346_5c111b3697_b.jpg)
 ![Home Page](https://live.staticflickr.com/65535/51145553359_8359be1f58_b.jpg)![Drawer](https://live.staticflickr.com/65535/51144773396_9f8fc919e5_b.jpg)
