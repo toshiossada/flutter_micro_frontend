@@ -207,7 +207,8 @@ A estrutura do projeto esta em monorepo e suas funcionalidade(módulos) quebrado
  - [module_login](./example/module_login)
  - [module_splash](./example/module_splash)
 
-![Estrutura](https://user-images.githubusercontent.com/2637049/116998954-59c3e300-acb5-11eb-8a73-aa342608edd5.png)
+
+![Estrutura](https://user-images.githubusercontent.com/2637049/117326330-ee6e4280-ae67-11eb-9a6c-90839a6e3e30.png)
 
 
 [DOCUMENTO](https://drive.google.com/file/d/1fsTYSfi2rtystFskGd1oX6lTPOJ_bFo1/view?usp=sharing)
