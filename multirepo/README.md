@@ -136,6 +136,7 @@ A estrutura do projeto esta em monorepo e suas funcionalidade(módulos) quebrado
 ![Estrutura](https://user-images.githubusercontent.com/2637049/117326330-ee6e4280-ae67-11eb-9a6c-90839a6e3e30.png)
 
 
+
 [DOCUMENTO](https://drive.google.com/file/d/1fsTYSfi2rtystFskGd1oX6lTPOJ_bFo1/view?usp=sharing)
 
 ## Base APP
