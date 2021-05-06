@@ -218,7 +218,10 @@ A importação das versões criadas deve ser da seguinte forma:
 
 # V - Telas
 
-![App](https://media3.giphy.com/media/j0NLsIT8GqF1RQnQMe/giphy.gif)
+![App](https://user-images.githubusercontent.com/2637049/117363594-28a10980-ae93-11eb-89fa-9a70344a5af0.gif)
+
+
+
 
 ![SplashScreen](https://user-images.githubusercontent.com/2637049/116999011-6fd1a380-acb5-11eb-87b6-c77e5d2ee606.png)
 ![Tela de Login](https://user-images.githubusercontent.com/2637049/116999041-7bbd6580-acb5-11eb-98be-9687309249ab.png)
