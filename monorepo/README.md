@@ -11,7 +11,7 @@
 
   
 
-Este é um projeto de exemplo de Flutter utilizando o conceito de monólito, ou seja, um único projeto com suas classes, widgets e helpers dentro dele.
+Este é um projeto de exemplo de Flutter utilizando o conceito de monórepo, ou seja, um único repositorio contendo os projetos do microfrontend
 
   
 
