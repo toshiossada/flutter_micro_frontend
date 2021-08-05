@@ -1,5 +1,5 @@
 
-# FLUTTER - Monólito
+# FLUTTER - Monórepo
 
   
 
