@@ -4,11 +4,10 @@
 
 # I - Introdução
 
-Este é um projeto de exemplo de Flutter utilizando o conceito de monólito, ou seja, um único projeto com suas classes, widgets e helpers dentro dele.
+Este é um projeto de exemplo de Flutter utilizando o conceito de multirepo, ou seja, cada projeto ficara em um repositorio diferente.
 
 A arquitetura do projeto esta baseada no Clean Dart com modular, tendo suas funcionalidades quebradas por módulos.
 
-![Estrutura de pastas](https://user-images.githubusercontent.com/2637049/116999584-32b9e100-acb6-11eb-93d5-73834e5cc895.png)
 
 
 Para criação de um novo modulo utilize o comando abaixo no CLI
@@ -17,8 +16,11 @@ Para criação de um novo modulo utilize o comando abaixo no CLI
 
 feito isto adicione a referencia dele no **pubspec** do **core**
 
-    commons_dependencies:
-    	path: '../commons_dependencies'
+    module_home:
+        git
+    	url: https://github.com/toshiossada/microapp_module_home.git
+        ref: v1.0.1 
+              
 
 Para rodar o projeto execute o **flutter pub get** para baixar as dependências e depois **flutter run**
 
