@@ -1,4 +1,4 @@
-# FLUTTER - Monólito
+# FLUTTER - Multirepo
 
 #### Versão 1.0
 
